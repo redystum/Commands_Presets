@@ -42,7 +42,7 @@ From here on I will assume the file with the name "preset".
 `preset config` \
 `edit` \
 `[preset name]` \
-`[command_number_to_edit]`
+`[command_number_to_edit]` \
 `[new_command1],[new_command2],[etc.]`
 
 
